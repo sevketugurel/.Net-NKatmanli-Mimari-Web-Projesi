@@ -15,4 +15,20 @@
 /Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
 /Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.genruntimeconfig.cache
 /Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll
-/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.sourcelink.json
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.runtimeconfig.json
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/EntityLayer.dll
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/bin/Debug/net8.0/EntityLayer.pdb
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CopyComplete
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.genruntimeconfig.cache
+/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll

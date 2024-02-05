@@ -8,7 +8,7 @@
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
                
-                optionsBuilder.UseSqlServer(@"Server=127.0.0.1,1433; Database=DBNewOOP; User Id=SA; Password=;TrustServerCertificate=true");
+                optionsBuilder.UseSqlServer(@"Server=127.0.0.1,1433; Database=DBNewOOP; User Id=SA; Password=reallyStrongPwd123;TrustServerCertificate=true");
 
             }
             public DbSet<Product> Products { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/DataAccessLayer.csproj": {}
+    "/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/DataAccessLayer.csproj": {}
   },
   "projects": {
-    "/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/DataAccessLayer.csproj": {
+    "/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/DataAccessLayer.csproj",
+        "projectPath": "/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/DataAccessLayer.csproj",
         "packagesPath": "/Users/sevketugurel/.nuget/packages/",
-        "outputPath": "/Users/sevketugurel/Desktop/Demo_Product/DataAccessLayer/obj/",
+        "outputPath": "/Users/sevketugurel/Desktop/C# /Demo_Product/DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sevketugurel/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/EntityLayer.csproj"
+              "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/EntityLayer.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/EntityLayer.csproj": {
+    "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/sevketugurel/.nuget/packages/",
-        "outputPath": "/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/",
+        "outputPath": "/Users/sevketugurel/Desktop/C# /Demo_Product/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sevketugurel/.nuget/NuGet/NuGet.Config"
