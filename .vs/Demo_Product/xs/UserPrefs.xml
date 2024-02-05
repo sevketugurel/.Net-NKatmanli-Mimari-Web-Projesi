@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0339058-4ED7-4EB2-AF44-07882F9AD741}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo_Product/Controllers/ProductControllers.cs">
+    <Files>
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets" />
+      <File FileName="Demo_Product/Controllers/ProductControllers.cs" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo_Product" expanded="True">
+            <Node name="Demo_Product" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductControllers.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Demo__Product PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

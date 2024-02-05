@@ -1,0 +1,13 @@
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/bin/Debug/net8.0/EntityLayer.deps.json
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/bin/Debug/net8.0/EntityLayer.dll
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/bin/Debug/net8.0/EntityLayer.pdb
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfo.cs
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.dll
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/refint/EntityLayer.dll
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.pdb
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/ref/EntityLayer.dll
+/Users/sevketugurel/Desktop/Demo_Product/EntityLayer/obj/Debug/net8.0/EntityLayer.sourcelink.json
